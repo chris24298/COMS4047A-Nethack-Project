@@ -1,9 +1,9 @@
 # COMS4047A-Nethack-Project
 
 Authors: 
-Christopher Pillay
-Siddeeq Laher
-Zaeem Asvat
+>Christopher Pillay
+>Siddeeq Laher
+>Zaeem Asvat
 
 We attempt to solve the [NetHack] environment through the application of reinforcement learning methods listed below.
 
