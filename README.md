@@ -1,6 +1,23 @@
 # COMS4047A-Nethack-Project
 
-Authors: \\
-Christopher Pillay - 1362077 \\
-Siddeeq Laher - 1727869 \\
-Zaeem Asvat - 1748323 \\
+Authors: 
+Christopher Pillay
+Siddeeq Laher
+Zaeem Asvat
+
+We attempt to solve the [NetHack] environment through the application of reinforcement learning methods listed below.
+
+# Value Function method
+- Deep Q-network
+
+# Policy Gradient method
+- Actor-Critic
+
+# Code
+Both methods were designed to be run on Google Colab and are therefore in a Jupyter notebook format. The code can be executed directly on Google Colab. If the code is to be executed on a dedicated machine note that the NetHack environment and its requiremnents must be setup correctly.
+
+
+ 
+
+
+[NetHack]: <https://github.com/NetHack/NetHack>
